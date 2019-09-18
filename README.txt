@@ -3,17 +3,6 @@
 This is the first file in the repo.
 tncmb prueba2
 
-##Ipsum Below
+##website
 
-sdasdjaksnd kjandskjansd kjnakjds nakjdsnakjndkj
-as ndjandskjnsdkjnaskjd
-asoidjaoisjdoiajsdoijas
-daoisdjoijsdoijasdoij
-}iiasjdoijasd
-
-
-
-
-fosijoifjoiesjfoisjefoijesoif
-eosfijoeijfsoe
-oijfeois
+1- index.html
